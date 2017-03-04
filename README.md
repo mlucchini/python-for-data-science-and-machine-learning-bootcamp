@@ -1,5 +1,8 @@
-# Python-Data-Science-and-Machine-Learning-Bootcamp
-Repo for Python Data Science and Machine Learning Bootcamp - Udemy
+# Python Data Science and Machine Learning bootcamp
+
+##### Course details
+
+[Udemy](https://udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 
 ##### Instructions
 
